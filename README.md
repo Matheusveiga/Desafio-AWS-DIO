@@ -54,6 +54,13 @@ Etapa 3:
 ## Conclusão
 A implementação de ferramentas na empresa **DrogaFarma** tem como esperado mais eficiência, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
+## Anexos
+
+| Arquivo | Descrição |
+|---------|-----------|
+| `relatorio_aws_Matheus_Veiga.md` | Relatório completo com justificativas, etapas e benefícios. |
+| `scripts/deploy-lambda.sh` | Script de exemplo para deploy de função Lambda. |
+| `policy-lambda.json` | Exemplo de política IAM para a função Lambda. |
 
 Assinatura do Responsável pelo Projeto:
 

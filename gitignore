@@ -1,0 +1,8 @@
+# Ignorar arquivos temporários e de credenciais
+*.log
+*.tmp
+*.swp
+__pycache__/
+.vscode/
+.env
+aws_credentials*
